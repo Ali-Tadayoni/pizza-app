@@ -1,4 +1,4 @@
-# Reacr Pizza Co.
+# React Pizza Co.
 
 An application, where users can order one or more pizzas from a menu , add them to their cart, ordet it and user can later look up their order
 
