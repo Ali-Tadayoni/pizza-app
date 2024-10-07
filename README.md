@@ -2,7 +2,7 @@
 
 An application, where users can order one or more pizzas from a menu , add them to their cart, ordet it and user can later look up their order
 
-## [Live Demo](https://your-portfolio-link.com) (You need VPN 😕)
+## [Live Demo](https://react-pizza-demo-app.netlify.app/) (You need VPN 😕)
 
 ## Features:
 
